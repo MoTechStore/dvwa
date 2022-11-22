@@ -393,9 +393,3 @@ By default it uses the file `database/sqli.db`, if you mess it up, simply copy `
 The challenges are exactly the same as for MySQL, they just run against SQLite3 instead.
 
 - - -
-
-## Links
-
-Project Home: <https://github.com/digininja/DVWA>
-
-*Created by the DVWA team*
